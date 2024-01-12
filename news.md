@@ -46,11 +46,19 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 尊敬的中国用户，由于中国地区政策法规，您与 AI 的对话必须符合当地言论规范。为了长期服务于您，即日起 [AIZOIC-中国区：cn.aizoi.cc](https://u.cn.aizoi.cc) 将实施内容审核，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [AIZOIC-全球：earth.aizoi.cc](https://u.earth.aizoi.cc) 随心畅聊。
 
-### 2023-07-07 中文版上线
+### 2023-08-08 中文版上线
 
-### 2023-06-06 上架 iOS 版 1.0
+### 2023-07-01 安卓版
 
-### 2023-05-05 Web 版首发上线啦
+[下载 AIZOIC 安卓应用](https://u.aizoi.cc/#/pages/user-resource-detail?tagnow=android)
+
+### 2023-06-06 成功上架苹果应用商店
+
+[安装 AIZOIC 苹果应用](https://u.aizoi.cc/#/pages/user-resource-detail?tagnow=ios)
+
+### 2023-05-05 网页版首发上线啦
+
+[打开 AIZOIC 网页应用](https://u.aizoi.cc)
 
 ---
 
