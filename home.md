@@ -54,13 +54,13 @@ AIZOIC, 是继 CENOZOIC（新生代） 之后的下一个地球纪元，人工�
 
 [领取奖励金，立刻试用 AIZOIC！](https://u.aizoi.cc)
 
-（小建议：先加入电报或微信社区，向客服领取优惠码，然后注册，可获得双倍奖励金）
+（小建议：先进入[电报或微信社区](https://u.aizoi.cc/#/pages/user-resource)，向客服领取优惠码，然后注册，可获得双倍奖励金）
 
-### 全球化
+### 全球化及本地化
 
 我们向全世界开放，提供全球服务: [https://u.earth.aizoi.cc](https://u.earth.aizoi.cc)
 
-并按照各地区文化和政策要求，提供本地化平台，例如符合中国审核政策的中国地区专属服务：[https://u.cn.aizoi.cc](https://u.cn.aizoi.cc)
+我们也按照各地区的特色文化和政策要求，提供本地化平台，例如符合中国审核政策的中国地区专属服务：[https://u.cn.aizoi.cc](https://u.cn.aizoi.cc)
 
 ### 去中心化
 
