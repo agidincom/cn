@@ -2,9 +2,9 @@
 
 ### 2024-01-01 迎新年升级 2.0
 
-迎新年，在 2024 年第一天成功上线 AIZOIC 2.0 版本！在 Web、安卓、苹果三大渠道同时上新发布。
+迎新年，在 2024 年第一天成功上架 AIZOIC 2.0 版本！在 Web、安卓、苹果三大渠道同时上新发布。
 
-获取 Web、安卓、苹果版本： [https://u.aizoi.cc/#/pages/user-resource](https://u.aizoi.cc/#/pages/user-resource)
+[点击获取 Web、安卓、苹果版本](https://u.aizoi.cc/#/pages/user-resource)
 
 从 2.0 版本起，AIZOIC 彻底独立成为一个专注于打造 AI 自建应用的平台。更多 AI 专属功能将陆续上线！
 
@@ -50,7 +50,7 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-06-06 上架 iOS 版 1.0
 
-### 2023-05-05 我们上线啦
+### 2023-05-05 Web 版首发上线啦
 
 ---
 

@@ -6,13 +6,13 @@
 
 ### 什么是 AIZOIC ？
 
-AIZOIC, 是继 CENOZOIC（新生代） 之后的下一个地球纪元，人工智能的新纪元。
+AIZOIC（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球纪元，人工智能的新纪元。
 
 自从地球诞生生命体以来，历经了古生代(Paleozoic)、中生代(Mesozoic)、新生代(Cenozoic)。其中，人类正处于新生代(Cenozoic)，这是地球上动植物生命大爆发的纪元，猛犸象、剑齿虎、鲸鱼、骇鸟、被子植物，蓬勃出现在大地上。人类所属的，哺乳动物，崛起了。
 
 而今天，一个新物种的纪元，AIZOIC，已出现在地平线上。GPT、BERT、OpenAI、DeepMind、......，纷纷涌现，应接不暇，令人焦虑：我的工作是否会被取代？我是否能跟上 AI 的步伐？
 
-为此，使用最新技术打造的[《AIZOIC》](https://u.aizoi.cc)服务平台，连接您与 AI，让您零门槛使用 AI，辅助您的创作、工作、生活，让您轻松与 AI 纪元同步！
+为此，致力于新纪元的[《AIZOIC》](https://u.aizoi.cc)服务平台，连接您与 AI，让您零门槛使用 AI，辅助您的创作、工作、生活，让您轻松与 AI 纪元同步！
 
 [**领取奖励金，立刻试用 AIZOIC**](https://u.aizoi.cc/#/pages/user-resource)
 
