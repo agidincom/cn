@@ -58,9 +58,9 @@ AIZOIC（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球�
 
 ### 全球化及本地化
 
-我们向全世界开放，提供全球服务: [https://u.earth.aizoi.cc](https://u.earth.aizoi.cc)
+我们向全世界开放，提供 [全球服务: https://u.earth.aizoi.cc](https://u.earth.aizoi.cc)
 
-我们也按照各地区的特色文化和政策要求，提供本地化平台，例如符合中国审核政策的中国地区专属服务：[https://u.cn.aizoi.cc](https://u.cn.aizoi.cc)
+我们也按照各地区的特色文化和政策要求，提供本地化平台，例如符合中国审核政策的 [中国地区专属服务: https://u.cn.aizoi.cc](https://u.cn.aizoi.cc)
 
 ### 去中心化
 
@@ -68,7 +68,7 @@ AIZOIC（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球�
 
 ### 关于我们
 
-我们是一个全球化团队，分布在德国、美国、新加坡、中国，以去中心化的方式运作。不论您是工程师、设计师、投资人，欢迎电邮: [hi@aizoi.cc](hi@aizoi.cc) 或 [进入社区](https://u.aizoi.cc/#/pages/user-resource)，咨询问题、了解我们、加入我们！
+我们是一个全球化团队，分布在德国、美国、新加坡、中国，以去中心化的方式运作。不论您是工程师、设计师、投资人，有任何问题，欢迎电邮: [hi@aizoi.cc](hi@aizoi.cc) 或进入 [电报或微信社区](https://u.aizoi.cc/#/pages/user-resource)，了解我们，加入我们。
 
 ---
 
