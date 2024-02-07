@@ -1,17 +1,17 @@
-# AIZOIC 中国区 - 连接您与 AI，创建并分享 AI 应用
+# AIZOIC - 中国区
 
-不需要任何额外设置，一站式、零门槛、低成本的接入全球 AI。
+ℹ 您不在中国地区？去看看 [AIZOIC Global](https://github.com/aizoic/en/)，畅享更多功能。
 
-自主创建并分享 AI 应用，超越想象边界，释放无限可能！
+---
 
-[**什么是 AIZOIC？**](./home.md)
+### [**什么是 AIZOIC？**](./home.md)
 
 - 命名由来
 - 初心理念
 - 功能特色
 - 去中心
 
-[**版本升级记录**](./news.md)
+### [**版本升级记录**](./news.md)
 
 - Web 首发
 - 苹果/安卓版上架
@@ -20,8 +20,8 @@
 - AI 应用市场
 - ......
 
-[**说一千道一万，不如点击这里，直接上手体验！**](https://u.aizoi.cc)
+[**说一千道一万，不如点击这里，亲手体验！**](https://u.aizoi.cc)
 
 ---
 
-您不在中国地区？去看看 [AIZOIC 全球版](https://github.com/aizoic/en/)，畅享更多功能。
+ℹ 您不在中国地区？去看看 [AIZOIC Global](https://github.com/aizoic/en/)，畅享更多功能。
