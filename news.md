@@ -1,8 +1,12 @@
 # AIZOIC - 升级记录
 
-### 2024-02-06 巴贝历 1.0 上架谷歌商店
+### 2024-02-08 新春版上架苹果+谷歌商店
 
-成功上架谷歌应用商店！点击 [AIZOIC/谷歌](https://gplay.aizoi.cc)，在安卓手机或平板上安装体验.
+迎新春，新版本同时成功上架 苹果+谷歌应用商店！
+
+安卓用户：点击 [AIZOIC/谷歌商店](https://gplay.aizoi.cc)，通过谷歌商店安装。或者点击 [AIZOIC/APK](https://store.aizoi.cc/aizoic.apk)，下载官方 APK 安装。
+
+苹果用户：点击 [AIZOIC/苹果商店](https://ios.aizoi.cc)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-01-30 联系客服
 
