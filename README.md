@@ -1,6 +1,6 @@
 # AIZOIC - 中国区
 
-ℹ 您不在中国地区？去看看 [AIZOIC Global](https://github.com/aizoic/en/)，畅享更多功能。
+ℹ 您不在中国地区？去看看 [AIZOIC Global](https://github.com/aippia/en/)，畅享更多功能。
 
 ---
 
