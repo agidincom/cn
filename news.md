@@ -1,4 +1,4 @@
-# AIZOIC - 升级记录
+# Aippia - 升级记录
 
 ### 2024-02-10 Gemini Pro
 
@@ -8,9 +8,9 @@
 
 恭㊗️新春，新版本同时成功上架 苹果+谷歌应用商店！
 
-安卓用户：点击 [AIZOIC/谷歌商店](https://gplay.aizoi.cc)，通过谷歌商店安装。或者点击 [AIZOIC/APK](https://store.aizoi.cc/aizoic.apk)，下载官方 APK 安装。
+安卓用户：点击 [Aippia/谷歌商店](https://gplay.aippia.com)，通过谷歌商店安装。或者点击 [Aippia/APK](https://apk.aippia.com)，下载官方 APK 安装。
 
-苹果用户：点击 [AIZOIC/苹果商店](https://ios.aizoi.cc)，在 iPhone 或 iPad 上安装体验。
+苹果用户：点击 [Aippia/苹果商店](https://ios.aippia.com)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-01-30 联系客服
 
@@ -22,11 +22,11 @@
 
 ### 2024-01-01 迎新年升级 2.0
 
-迎新年，在 2024 年第一天成功上架 AIZOIC 2.0 版本！在 Web、安卓、苹果三大渠道同时上新发布。
+迎新年，在 2024 年第一天成功上架 Aippia 2.0 版本！在 Web、安卓、苹果三大渠道同时上新发布。
 
-[点击获取 Web、安卓、苹果版本](https://u.aizoi.cc/#/pages/user-resource)
+[点击获取 Web、安卓、苹果版本](https://u.aippia.com/#/pages/user-resource)
 
-从 2.0 版本起，AIZOIC 彻底独立成为一个专注于打造 AI 自建应用的平台。更多 AI 专属功能将陆续上线！
+从 2.0 版本起，Aippia 彻底独立成为一个专注于打造 AI 自建应用的平台。更多 AI 专属功能将陆续上线！
 
 ### 2023-12-22 用户自定义 AI 应用
 
@@ -48,7 +48,7 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-11-25 一分二
 
-为了让您拥有更多更好的 AI 体验，自即日起，[《AIZOIC》](https://aizoi.cc)将全面专注于 AI 及其衍生功能。
+为了让您拥有更多更好的 AI 体验，自即日起，[《Aippia》](https://aippia.com)将全面专注于 AI 及其衍生功能。
 
 原有的 PEX/NFT/IPFS 相关功能将独立成一个全新的 Web3 服务平台：[《巴贝历》](https://babely.cc)。
 
@@ -64,21 +64,21 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-08-21 中国区审核
 
-尊敬的中国用户，由于中国地区政策法规，您与 AI 的对话必须符合当地言论规范。为了长期服务于您，即日起 [AIZOIC-中国区](https://u.cn.aizoi.cc) 将实施内容审核，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [AIZOIC-全球](https://u.earth.aizoi.cc) 随心畅聊。
+尊敬的中国用户，由于中国地区政策法规，您与 AI 的对话必须符合当地言论规范。为了长期服务于您，即日起 [Aippia-中国区](https://u.cn.aippia.com) 将实施内容审核，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [Aippia-全球](https://u.earth.aippia.com) 随心畅聊。
 
 ### 2023-08-08 中文版上线
 
 ### 2023-07-01 安卓版
 
-[下载 AIZOIC 安卓应用](https://u.aizoi.cc/#/pages/user-resource-detail?tagnow=android)
+[下载 Aippia 安卓应用](https://u.aippia.com/#/pages/user-resource-detail?tagnow=android)
 
 ### 2023-06-06 成功上架苹果应用商店
 
-[安装 AIZOIC 苹果应用](https://u.aizoi.cc/#/pages/user-resource-detail?tagnow=ios)
+[安装 Aippia 苹果应用](https://u.aippia.com/#/pages/user-resource-detail?tagnow=ios)
 
 ### 2023-05-05 网页版首发上线啦
 
-[打开 AIZOIC 网页应用](https://u.aizoi.cc)
+[打开 Aippia 网页应用](https://u.aippia.com)
 
 ---
 

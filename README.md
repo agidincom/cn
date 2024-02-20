@@ -1,10 +1,10 @@
-# AIZOIC - 中国区
+# Aippia - 中国区
 
-ℹ 您不在中国地区？去看看 [AIZOIC Global](https://github.com/aippia/en/)，畅享更多功能。
+ℹ 您不在中国地区？去看看 [Aippia Global](https://github.com/aippia/en/)，畅享更多功能。
 
 ---
 
-[**什么是 AIZOIC？**](./home.md)
+[**什么是 Aippia？**](./home.md)
 
 - 命名由来
 - 初心理念
@@ -20,4 +20,4 @@
 - AI 应用市场
 - ......
 
-[**说一千道一万，不如立刻上手体验！**](https://u.aizoi.cc)
+[**说一千道一万，不如立刻上手体验！**](https://u.aippia.com)
