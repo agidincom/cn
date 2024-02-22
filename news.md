@@ -1,5 +1,9 @@
 # Aippia - 升级记录
 
+### 2024-02-22 品牌焕新名
+
+品牌重命名为 Aippia，以更好的体现 AI App 应用市场。相应的，网址升级为 [aippia.com](https://aippia.com)，同时也保留了 [aizoi.cc](https://aizoi.cc) 并行使用。[苹果应用](https://ios.aippia.com)、[安卓应用](https://apk.aippia.com)也已同步升级。感谢您的信任！
+
 ### 2024-02-10 Gemini Pro
 
 第一时间为您接入 Gemini Pro, 最新出炉的谷歌 AI，欢迎体验。
@@ -38,7 +42,7 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-12-02 语音对话
 
-现在起，H5 和安卓版能够用语音输入，也能用语音朗读！
+现在起，您可以用语音向 AI 提问，AI 也能用语音回答！
 
 可以持续朗读，也可以点击一个句子，单独朗读这一句。
 

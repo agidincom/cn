@@ -6,15 +6,7 @@
 
 ### 什么是 Aippia ？
 
-Aippia（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球纪元，人工智能的新纪元。
-
-自从地球诞生生命体以来，历经了古生代(Paleozoic)、中生代(Mesozoic)、新生代(Cenozoic)。其中，人类正处于新生代(Cenozoic)，这是地球上动植物生命大爆发的纪元，猛犸象、剑齿虎、鲸鱼、骇鸟、被子植物，蓬勃出现在大地上。人类所属的，哺乳动物，崛起了。
-
-<img src="./images/lifezoic.png" width="500"/>
-
-而今天，一个新物种的纪元，Aippia，已出现在地平线上。GPT、BERT、OpenAI、DeepMind、......，纷纷涌现，应接不暇，令人焦虑：我的工作是否会被取代？我是否能跟上 AI 的步伐？
-
-为此，致力于新纪元的[《Aippia》](https://u.aippia.com)服务平台，连接您与 AI，让您零门槛使用 AI，辅助您的创作、工作、生活，让您轻松与 AI 纪元同步！
+Aippia，是 AI App 的应用市场，即人工智能应用市场。
 
 [**领取奖励金，立刻试用 Aippia**](https://u.aippia.com/#/pages/user-resource)
 
@@ -30,7 +22,7 @@ Aippia（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球�
 
 ❌❌❌ 作为对比，其他基于所谓平替的 AI 渠道，都需要繁琐的前置技术准备工作。对绝大多数用户，这实际上是不可能完成的任务，即使花大价钱买了账号，买了教程，买了书，也无法使用！❌❌❌
 
-[领取奖励金，立刻试用 Aippia！](https://u.aippia.com)
+[领取奖励金，立刻试用 Aippia](https://u.aippia.com)
 
 ### 一站式，全渠道
 
@@ -40,7 +32,7 @@ Aippia（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球�
 
 需要定制自己的模型？联系我们，我们能够为您训练您私有的 AI 模型。
 
-[领取奖励金，立刻试用 Aippia！](https://u.aippia.com)
+[领取奖励金，立刻试用 Aippia](https://u.aippia.com)
 
 ### AI 应用市场
 
@@ -54,7 +46,7 @@ Aippia（AI 生代）, 是继 CENOZOIC（新生代） 之后的下一个地球�
 
 对长期用户，我们按 AI 算力消耗量灵活计费，一分钱起付，随用随付！
 
-[领取奖励金，立刻试用 Aippia！](https://u.aippia.com)
+[领取奖励金，立刻试用 Aippia](https://u.aippia.com)
 
 （小建议：先进入[电报或微信社区](https://u.aippia.com/#/pages/user-resource)，向客服领取优惠码，然后注册，可获得双倍奖励金）
 
