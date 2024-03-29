@@ -1,23 +1,13 @@
-# Aippia - 中国区
+# 爱奇点 - 中国区
 
-ℹ 您不在中国地区？去看看 [Aippia Global](https://github.com/aippia/en/)，畅享更多功能。
+ℹ 您不在中国地区？去看看 [Aippia - Global](https://github.com/aippia/en/)，畅享更多功能。
 
 ---
 
-[**什么是 Aippia？**](./home.md)
+## 内容目录
 
-- 命名由来
-- 初心理念
-- 功能特色
-- 去中心
+- [什么是【爱奇点】？](./home.md)
+- [版本升级记录](./news.md)
+- [怎样创建 Aipp 小应用？](./howto/create-aipp)
 
-[**版本升级记录**](./news.md)
-
-- Web 首发
-- 苹果/安卓版上架
-- 中国区专属审核
-- 语音对话
-- AI 应用市场
-- ......
-
-[**说一千道一万，不如立刻上手体验！**](https://u.aippia.com)
+[说一千道一万，不如立刻上手体验！](https://u.aippia.com)

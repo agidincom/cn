@@ -1,14 +1,16 @@
-# Aippia - 连接您与 AI，创建并分享 AI 应用
+# 爱奇点 - 直达全球 AI 大模型，创建并分享 AI 应用
 
 不需要任何额外设置，一站式、零门槛、低成本的接入全球 AI。
 
-自主创建并分享 AI 应用，超越想象边界，释放无限可能！
+自主创建并分享 AI 应用，超越想象边界，释放无限可能。
 
-### 什么是 Aippia ？
+还能从您的应用中获得长期收益！
 
-Aippia，是 AI App 的应用市场，即人工智能应用市场。
+### 什么是爱奇点 ？
 
-[**领取奖励金，立刻试用 Aippia**](https://u.aippia.com/#/pages/user-resource)
+爱奇点，是 aippia.com 的中文品牌名，致力于 AI App (简称 Aipp) 的应用市场，即人工智能应用市场。通过爱奇点，连接您与 AI 奇点时刻，您能够直达全球 AI 大模型，创建和分享 AI 小应用，还能够从中获得长久的收益！
+
+[领取奖励金，立刻试用【爱奇点】](https://u.aippia.com)
 
 ### 零门槛
 
@@ -22,7 +24,7 @@ Aippia，是 AI App 的应用市场，即人工智能应用市场。
 
 ❌❌❌ 作为对比，其他基于所谓平替的 AI 渠道，都需要繁琐的前置技术准备工作。对绝大多数用户，这实际上是不可能完成的任务，即使花大价钱买了账号，买了教程，买了书，也无法使用！❌❌❌
 
-[领取奖励金，立刻试用 Aippia](https://u.aippia.com)
+[领取奖励金，立刻试用【爱奇点】](https://u.aippia.com)
 
 ### 一站式，全渠道
 
@@ -32,7 +34,7 @@ Aippia，是 AI App 的应用市场，即人工智能应用市场。
 
 需要定制自己的模型？联系我们，我们能够为您训练您私有的 AI 模型。
 
-[领取奖励金，立刻试用 Aippia](https://u.aippia.com)
+[领取奖励金，立刻试用【爱奇点】](https://u.aippia.com)
 
 ### AI 应用市场
 
@@ -46,15 +48,15 @@ Aippia，是 AI App 的应用市场，即人工智能应用市场。
 
 对长期用户，我们按 AI 算力消耗量灵活计费，一分钱起付，随用随付！
 
-[领取奖励金，立刻试用 Aippia](https://u.aippia.com)
+[领取奖励金，立刻试用【爱奇点】](https://u.aippia.com)
 
-（小建议：先进入[电报或微信社区](https://u.aippia.com/#/pages/user-resource)，向客服领取优惠码，然后注册，可获得双倍奖励金）
+（小建议：先[加入社区群组](https://u.aippia.com/#/pages/user-resource)，向客服领取优惠码，然后注册，可获得双倍奖励金）
 
 ### 全球化及本地化
 
-我们向全世界开放，提供 [全球服务: https://u.earth.aippia.com](https://u.earth.aippia.com)
+我们向全世界开放，提供 [全球版: https://u.earth.aippia.com](https://u.earth.aippia.com)
 
-我们也按照各地区的特色文化和政策要求，提供本地化平台，例如符合中国审核政策的 [中国地区专属服务: https://u.cn.aippia.com](https://u.cn.aippia.com)
+我们也按照各地区的特色文化和政策要求，提供本地化定制，例如符合中国审核政策的 [中国地区专属版: https://u.cn.aippia.com](https://u.cn.aippia.com) 确保合法合规，您能够长期放心使用。
 
 ### 去中心化
 
@@ -62,8 +64,8 @@ Aippia，是 AI App 的应用市场，即人工智能应用市场。
 
 ### 关于我们
 
-我们是一个全球化团队，分布在德国、美国、新加坡、中国，以去中心化的方式运作。不论您是工程师、设计师、投资人，有任何问题，欢迎电邮: [hi@aippia.com](hi@aippia.com) 或进入 [电报或微信社区](https://u.aippia.com/#/pages/user-resource)，了解我们，加入我们。
+我们是一个全球化团队，分布在德国、美国、新加坡、中国，以去中心化的方式运作。不论您是工程师、设计师、投资人，有任何问题，欢迎电邮: [hi@aippia.com](hi@aippia.com) 或 [加入社区群组](https://u.aippia.com/#/pages/user-resource)。
 
 ---
 
-[ℹ 返回目录](./README.md)
+**[ℹ️ 返回内容目录](./README.md)**

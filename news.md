@@ -1,8 +1,19 @@
-# Aippia - 升级记录
+# 2024-03-22 免费画图！
+
+上架 Stable Diffusiion XL 文生图模型，**免费！**
+上架 Llama2 13b 文字大模型，免费！
+
+以上是我们自己创建的大模型，免费提供给大家玩耍。
+
+### 2024-02-26 你的第一个 AI 应用
+
+点击观看视频，只要一分钟，拥有你的第一个 AI 应用：我的英语小秘书
+
+<a target="_blank" href="https://www.bilibili.com/video/BV1MS421A73s/?share_source=copy_web&vd_source=f47478ccb1bf2e41f186f648b2cbdaa8" title="一分钟学会AI：拥有我的英语小秘书"><img src="./images/20240226-video-cover.jpg" alt="一分钟学会AI：拥有我的英语小秘书" width="200" height="200"/></a>
 
 ### 2024-02-22 品牌焕新名
 
-品牌重命名为 Aippia，以更好的体现 AI App 应用市场。相应的，网址升级为 [aippia.com](https://aippia.com)，同时也保留了 [aizoi.cc](https://aizoi.cc) 并行使用。[苹果应用](https://ios.aippia.com)、[安卓应用](https://apk.aippia.com)也已同步升级。感谢您的信任！
+启动中文品牌名《爱奇点》，同时英文品牌重命名为 Aippia，以更好的体现 AI App 应用市场。相应的，网址升级为 [aippia.com](https://aippia.com)，同时也保留了 [aizoi.cc](https://aizoi.cc) 并行使用。[苹果应用](https://ios.aippia.com)、[安卓应用](https://apk.aippia.com)也已同步升级。感谢您的信任！
 
 ### 2024-02-10 Gemini Pro
 
@@ -86,4 +97,4 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ---
 
-[返回目录](./README.md)
+**[ℹ️ 返回内容目录](./README.md)**
