@@ -1,6 +1,6 @@
 # 爱奇点 - 中国区
 
-### 内容目录
+### 返回目录
 
 - [什么是爱奇点？](./home.md)
 - [版本升级记录](./news.md)
@@ -11,4 +11,4 @@
 
 ---
 
-ℹ 您不在中国地区？去看看 [Aippia - Global](https://github.com/aippia/en/)，畅享更多功能。
+您不在中国地区？去看看 [Aippia - Global](https://github.com/aippia/en/)，畅享更多功能。
