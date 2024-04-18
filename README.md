@@ -13,7 +13,4 @@
 
 ---
 
-🌐 您不在中国地区？想要畅享更多功能？去看看：
-
-- [Aippia Library - Global (as Github Repository)](https://github.com/aippia/en/)
-- [Aippia Library - Global (as official website)](https://lib.earth.aippia.com)
+🌐 您不在中国地区？想要畅享更多功能？去看看 [Aippia - Global](https://lib.earth.aippia.com)
