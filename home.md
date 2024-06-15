@@ -2,9 +2,9 @@
 
 ### 目录
 
-- [什么是爱奇点](./whitepaper.md)
+- [什么是爱奇点？（白皮书）](./whitepaper.md)
 - [版本升级记录](./news.md)
-- [政策](.doc/)
+- [政策](./doc/)
   - [用户协议](./doc/agreement.md)
   - [隐私协议](./doc/privacy.md)
 - [指南](./howto/)
@@ -12,9 +12,10 @@
   - [从 Aipp 中获得收入](./howto/earn-money.md)
   - [定制 Aipp 专属文件库](./howto/filebase.md)
 - [博客](./blog/)
-  - [AI 是工业革命的谢幕，而不是新一轮的开始](.blog/AI是工业革命的谢幕.md)
+  - [AI 是工业革命的谢幕，而不是新一轮的开始](./blog/AI是工业革命的谢幕.md)
+  - [《态势感知-未来十年》读后总结](./blog/20240611-path-to-agi.md)
 
-[说一千道一万，不如立刻上手体验！](https://u.aippia.com)
+说一千道一万，[不如立刻上手体验吧！](https://u.aippia.com)
 
 ---
 
