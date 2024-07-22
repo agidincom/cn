@@ -1,6 +1,6 @@
 # 爱奇点 - 新鲜事
 
-[全渠道已上架：Web、安卓、苹果](https://links.aippia.com)
+[下载应用：Web、安卓、苹果](https://links.aippia.com)
 
 ### 2024-07-12 减少注册奖励金
 
@@ -50,9 +50,9 @@
 
 恭㊗️新春，新版本同时成功上架 苹果+谷歌应用商店！
 
-安卓用户：点击 [Aippia/谷歌商店](https://gplay.aippia.com)，通过谷歌商店安装。或者点击 [Aippia/APK](https://apk.aippia.com)，下载官方 APK 安装。
+安卓用户：点击 [Aippia：谷歌商店](https://gplay.aippia.com)，通过谷歌商店安装。或者点击 [Aippia：APK](https://apk.aippia.com)，下载官方 APK 安装。
 
-苹果用户：点击 [Aippia/苹果商店](https://ios.aippia.com)，在 iPhone 或 iPad 上安装体验。
+苹果用户：点击 [Aippia：苹果商店](https://ios.aippia.com)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-01-30 联系客服
 
