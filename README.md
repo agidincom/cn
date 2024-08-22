@@ -15,13 +15,12 @@
   - 2024-06-11 [《态势感知-未来十年》读后总结](./blog/20240611-path-to-agi.md)
   - 2024-04-09 [AI 是工业革命的谢幕，而不是新一轮的开始](./blog/20240409-AI是工业革命的谢幕.md)
 
-说一千道一万，[不如立刻上手体验爱奇点！
-](https://u.aippia.com)
+说一千道一万，不如立刻 [体验爱奇点！](https://u.aippia.com)
 
 欢迎 [全网搜索并关注【爱奇点】](https://links.aippia.com)
 
-有任何想法？联系我们：[hi@aippia.com](mailto:hi@aippia.com)
+有任何想法？发送邮件给我们 [hi@aippia.com](mailto:hi@aippia.com) 或者 [在这里留言](https://csr.aippia.com)
 
 ---
 
-🌐 You are not in China? Wanna try more features freely? Please visit [Aippia - Global](https://lib.earth.aippia.com)
+🌐 You are not in China? Please visit [Aippia - Global](https://lib.earth.aippia.com)
