@@ -42,4 +42,4 @@
 
 ---
 
-**[🔙️ Contents Table](../home.md)**
+**[🔙️ Back to Home](../home.md)**
