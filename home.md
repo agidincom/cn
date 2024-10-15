@@ -24,4 +24,4 @@
 
 ---
 
-🌐 You are not in China? Please visit **[Aippia - Global](https://lib.earth.aippia.com)**
+🌐 You are not in China? Please visit [**Aippia - Global**](https://lib.earth.aippia.com)
