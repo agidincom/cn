@@ -1,6 +1,34 @@
 # 爱奇点 - 新鲜事
 
-[下载应用：Web、安卓、苹果](https://links.aippia.com)
+[下载应用：Web、安卓、苹果](https://links.agidin.com)
+
+### 2025-01-03 暂时下架 o1
+
+接 OpenAI 通知，由于技术故障，暂时下线目前最强模型 o1 和 o1-mini，待故障解决后，将尽快重新上线。
+
+### 2025-01-02 羊驼 3.3
+
+羊驼开源大模型现已更新到 3.3，速度更快，支持多语种对话。
+
+### 2024-12-19 多语种
+
+现在您可以为 aipp 设置多种语言，更好的国际化。
+
+### 2024-12-13 o1-mini
+
+OpenAI 最新旗舰 o1-mini，首个达到人类各学科顶尖专业水平的 AI，在爱奇点上线啦！请注意，作为最高端旗舰，比较贵哦！
+
+### 2024-11-25 客服
+
+尊敬的朋友，刚刚发现自 11 月初以来，我们的客服消息系统出现故障，没有接收到大家可能的投诉或其他来信。现已修复，但也许已给一部分朋友造成了不便甚至损失，我们深表歉意！请在 11 月期间发起过投诉的朋友联系客服，我们将给予补偿。
+
+### 2024-11-03 默认 AI
+
+默认 AI 切换到“爱奇点全能 AI“，具有长期记忆，更好的了解、支持您。
+
+### 2024-10-20 拖拽上传
+
+支持拖拽照片、文档到聊天界面，不需要再点击查找文件啦。
 
 ### 2024-07-12 减少注册奖励金
 
@@ -40,7 +68,7 @@
 
 ### 2024-02-22 品牌焕新名
 
-启动中文品牌名《爱奇点》，同时英文品牌重命名为 Aippia，以更好的体现 AI App 应用市场。相应的，网址升级为 [aippia.com](https://aippia.com)，同时也保留了 [aizoi.cc](https://aizoi.cc) 并行使用。[苹果应用](https://ios.aippia.com)、[安卓应用](https://apk.aippia.com)也已同步升级。感谢您的信任！
+启动中文品牌名《爱奇点》，同时英文品牌重命名为 Agidin，以更好的体现 AI App 应用市场。相应的，网址升级为 [agidin.com](https://agidin.com)，同时也保留了 [aizoi.cc](https://aizoi.cc) 并行使用。[苹果应用](https://ios.agidin.com)、[安卓应用](https://apk.agidin.com)也已同步升级。感谢您的信任！
 
 ### 2024-02-10 Gemini Pro
 
@@ -50,9 +78,9 @@
 
 恭㊗️新春，新版本同时成功上架 苹果+谷歌应用商店！
 
-安卓用户：点击 [Aippia：谷歌商店](https://gplay.aippia.com)，通过谷歌商店安装。或者点击 [Aippia：APK](https://apk.aippia.com)，下载官方 APK 安装。
+安卓用户：点击 [Agidin：谷歌商店](https://gplay.agidin.com)，通过谷歌商店安装。或者点击 [Agidin：APK](https://apk.agidin.com)，下载官方 APK 安装。
 
-苹果用户：点击 [Aippia：苹果商店](https://ios.aippia.com)，在 iPhone 或 iPad 上安装体验。
+苹果用户：点击 [Agidin：苹果商店](https://ios.agidin.com)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-01-30 联系客服
 
@@ -64,9 +92,9 @@
 
 ### 2024-01-01 迎新年升级 2.0
 
-迎新年，在 2024 年第一天成功上架 Aippia 2.0 版本！在 Web、安卓、苹果三大渠道同时上新发布。
+迎新年，在 2024 年第一天成功上架 Agidin 2.0 版本！在 Web、安卓、苹果三大渠道同时上新发布。
 
-从 2.0 版本起，Aippia 彻底独立成为一个专注于打造 AI 自建应用的平台。更多 AI 专属功能将陆续上线！
+从 2.0 版本起，Agidin 彻底独立成为一个专注于打造 AI 自建应用的平台。更多 AI 专属功能将陆续上线！
 
 ### 2023-12-22 用户自定义 AI 应用
 
@@ -88,7 +116,7 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-11-25 一分二
 
-为了让您拥有更多更好的 AI 体验，自即日起，[《Aippia》](https://aippia.com)将全面专注于 AI 及其衍生功能。
+为了让您拥有更多更好的 AI 体验，自即日起，[《Agidin》](https://agidin.com)将全面专注于 AI 及其衍生功能。
 
 原有的 PEX/NFT/IPFS 相关功能将独立成一个全新的 Web3 服务平台：[《巴贝历》](https://babely.cc)。
 
@@ -104,21 +132,21 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-08-21 中国区审核
 
-尊敬的中国地区用户，由于中国政策法规，您与 AI 的对话必须符合当地言论规范。为了长期服务于您，即日起 [Aippia-中国区](https://u.cn.aippia.com) 将实施内容审核，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [Aippia-Global](https://u.earth.aippia.com) 随心畅聊。
+尊敬的中国地区用户，由于中国政策法规，您与 AI 的对话必须符合中国言论规范。为了长期服务于您，即日起 [Agidin-中国区](https://u.cn.agidin.com) 将接入中国百度内容审查，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [Agidin-Global](https://u.earth.agidin.com) 随心畅聊。
 
 ### 2023-08-08 中文版上线
 
 ### 2023-07-01 安卓版
 
-[下载 Aippia 安卓应用](https://apk.aippia.com)
+[下载 Agidin 安卓应用](https://apk.agidin.com)
 
 ### 2023-06-06 成功上架苹果应用商店
 
-[安装 Aippia 苹果应用](https://ios.aippia.com)
+[安装 Agidin 苹果应用](https://ios.agidin.com)
 
 ### 2023-05-05 网页版首发上线啦
 
-[打开 Aippia 网页应用](https://u.aippia.com)
+[打开 Agidin 网页应用](https://u.agidin.com)
 
 ---
 
