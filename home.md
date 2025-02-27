@@ -1,5 +1,9 @@
 # 爱奇点 - 中国区
 
+🌐 For English speakers, please visit [**Agidin - Global**](https://info.earth.agidin.com)
+
+---
+
 ### 目录
 
 - [什么是爱奇点？](./whitepaper.md)
@@ -25,5 +29,3 @@
 爱奇点是远近星空旗下应用，欢迎访问 [远近星空](https://yuanjinx.com) 发现更多前沿创新应用
 
 ---
-
-🌐 You are not in China? Please visit [**Agidin - Global**](https://info.earth.agidin.com)

@@ -2,6 +2,22 @@
 
 [下载应用：Web、安卓、苹果](https://links.agidin.com)
 
+---
+
+### 2025-02-15 DeepSeek R1
+
+DeepSeek R1 已上架！由于春节假期，这次没有在第一时间上架这款万众期待的 R1，为表歉意，本模型将为大家免费服务直至三月底！
+
+### 2025-01-15 agidin.com
+
+我们启用新名字啦！请大家记住英文永久网址"[agidin.com](https://agidin.com)"，与中文永久网址"[爱奇点.com](https://爱奇点.com)"谐音，寓意我们相信 AGI 的未来，像阿拉丁相信神灯，因此 agi + din => Agidin！
+
+其他老域名将在一个月后不再使用，请立刻更新您的书签！
+
+### 2025-01-05 DeepSeek v3
+
+最近超火的 DeepSeek v3 模型上架啦！价格最低的顶级 AI。
+
 ### 2025-01-03 暂时下架 o1
 
 接 OpenAI 通知，由于技术故障，暂时下线目前最强模型 o1 和 o1-mini，待故障解决后，将尽快重新上线。
@@ -66,9 +82,9 @@ OpenAI 最新旗舰 o1-mini，首个达到人类各学科顶尖专业水平的 A
 
 以上是我们自己创建的大模型，免费提供给大家玩耍。
 
-### 2024-02-22 品牌焕新名
+### 2024-02-22 爱奇点新品牌
 
-启动中文品牌名《爱奇点》，同时英文品牌重命名为 Agidin，以更好的体现 AI App 应用市场。相应的，网址升级为 [agidin.com](https://agidin.com)，同时也保留了 [aizoi.cc](https://aizoi.cc) 并行使用。[苹果应用](https://ios.agidin.com)、[安卓应用](https://apk.agidin.com)也已同步升级。感谢您的信任！
+启动中文品牌名《爱奇点》，并且新增网址 aippia.com，以更好的体现 Aipp 应用概念，同时也保留了 aizoi.cc 并行使用。[苹果应用](https://ios.agidin.com)、[安卓应用](https://apk.agidin.com)也已同步升级。感谢您的信任！
 
 ### 2024-02-10 Gemini Pro
 
@@ -78,9 +94,9 @@ OpenAI 最新旗舰 o1-mini，首个达到人类各学科顶尖专业水平的 A
 
 恭㊗️新春，新版本同时成功上架 苹果+谷歌应用商店！
 
-安卓用户：点击 [Agidin：谷歌商店](https://gplay.agidin.com)，通过谷歌商店安装。或者点击 [Agidin：APK](https://apk.agidin.com)，下载官方 APK 安装。
+安卓用户：点击 [Agidin/谷歌商店](https://gplay.agidin.com)，通过谷歌商店安装。或者点击 [Agidin/APK](https://apk.agidin.com)，下载官方 APK 安装。
 
-苹果用户：点击 [Agidin：苹果商店](https://ios.agidin.com)，在 iPhone 或 iPad 上安装体验。
+苹果用户：点击 [Agidin/苹果商店](https://ios.agidin.com)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-01-30 联系客服
 
