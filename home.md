@@ -1,6 +1,6 @@
 # 爱奇点 - 中国区
 
-🌐 For English speakers, please visit [**Agidin - Global**](https://info.earth.agidin.com)
+🌐 For English, please visit [Agidin - Global](https://info.earth.agidin.com)
 
 ---
 
@@ -24,8 +24,8 @@
 
 欢迎 [全网搜索并关注【爱奇点】](https://links.agidin.com)
 
-有任何想法？发送邮件给我们 [hi@agidin.com](mailto:hi@agidin.com) 或者 [在这里留言](https://csr.agidin.com)
-
-爱奇点是远近星空旗下应用，欢迎访问 [远近星空](https://yuanjinx.com) 发现更多前沿创新应用
+有任何想法？发送邮件给 [hi@agidin.com](mailto:hi@agidin.com) 或者 [给客服留言](https://csr.agidin.com)
 
 ---
+
+✨ 欢迎访问 [远近星空](https://yuanjinx.com) 发现更多创新应用
