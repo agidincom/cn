@@ -28,4 +28,4 @@
 
 ---
 
-✨ 欢迎访问 [远近星空](https://yuanjinx.com) 发现更多创新应用
+✨ 爱奇点，源自 [远近星空](https://yuanjinx.com)
