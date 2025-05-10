@@ -14,7 +14,7 @@
 
 《态势感知》，很酷的名字！作者认为，当前全世界对态势具有明确感知的，只有几百人。但是极快的，将发生彻底的改变。强烈推荐阅读原文 [https://situational-awareness.ai/](https://situational-awareness.ai/) 和看看帅哥本人 [https://www.forourposterity.com/](https://www.forourposterity.com/)
 
-<img src="../images/LeopoldAschenbrenner.png" alt="Image" width="300">
+<img src="./images/LeopoldAschenbrenner.png" alt="Image" width="300">
 
 读了《态势感知》后，总结的要点和逻辑：
 
@@ -42,4 +42,4 @@
 
 ---
 
-[**🔙️ Back to Home**](../home.md)
+[**🔙️ Back to Home**](../../home.md)
