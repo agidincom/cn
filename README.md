@@ -1,6 +1,6 @@
 # 爱奇点 - 简体中文
 
-🌎 [Agidin - Global](https://info.earth.agidin.com)
+🌎 [Agidin - Global](https://info.agidin.com)
 
 ---
 
