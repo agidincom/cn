@@ -23,11 +23,11 @@
 有任何想法？欢迎您
 
 - 发送邮件给 [hi@agidin.com](mailto:hi@agidin.com)
-- 在应用里 <a href="https://csr.爱奇点.com" target="_blank">给客服留言</a>
-- 全网搜索并关注 <a href="https://links.爱奇点.com" target="_blank">【爱奇点】频道</a>
+- 在应用里 [给客服留言](https://csr.爱奇点.com)
+- 全网搜索并关注 [【爱奇点】频道](https://links.爱奇点.com)
 
 ---
 
-🚀 说一千道一万，不如立刻体验 <a href="https://u.爱奇点.com" target="_blank">【爱奇点】应用</a>
+🚀 说一千道一万，不如立刻体验 [【爱奇点】应用](https://u.爱奇点.com)
 
 <!-- ✨ 爱奇点源自 [远近星空](https://yuanjinx.com) -->
