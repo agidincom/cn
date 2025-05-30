@@ -1,6 +1,6 @@
 # 爱奇点 - 新鲜事
 
-[下载应用：Web、安卓、苹果](https://links.agidin.com)
+[下载应用：Web、安卓、苹果](https://links.爱奇点.com)
 
 ---
 
@@ -84,7 +84,7 @@ OpenAI 最新旗舰 o1-mini，首个达到人类各学科顶尖专业水平的 A
 
 ### 2024-02-22 爱奇点新品牌
 
-启动中文品牌名《爱奇点》，并且新增网址 aippia.com，以更好的体现 Aipp 应用概念，同时也保留了 aizoi.cc 并行使用。[苹果应用](https://ios.agidin.com)、[安卓应用](https://apk.agidin.com)也已同步升级。感谢您的信任！
+启动中文品牌名《爱奇点》，并且新增网址 aippia.com，以更好的体现 Aipp 应用概念，同时也保留了 aizoi.cc 并行使用。[苹果应用](https://ios.爱奇点.com)、[安卓应用](https://apk.爱奇点.com)也已同步升级。感谢您的信任！
 
 ### 2024-02-10 Gemini Pro
 
@@ -94,9 +94,9 @@ OpenAI 最新旗舰 o1-mini，首个达到人类各学科顶尖专业水平的 A
 
 恭㊗️新春，新版本同时成功上架 苹果+谷歌应用商店！
 
-安卓用户：点击 [Agidin/谷歌商店](https://gplay.agidin.com)，通过谷歌商店安装。或者点击 [Agidin/APK](https://apk.agidin.com)，下载官方 APK 安装。
+安卓用户：点击 [Agidin/谷歌商店](https://gplay.爱奇点.com)，通过谷歌商店安装。或者点击 [Agidin/APK](https://apk.爱奇点.com)，下载官方 APK 安装。
 
-苹果用户：点击 [Agidin/苹果商店](https://ios.agidin.com)，在 iPhone 或 iPad 上安装体验。
+苹果用户：点击 [Agidin/苹果商店](https://ios.爱奇点.com)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-01-30 联系客服
 
@@ -134,7 +134,7 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 为了让您拥有更多更好的 AI 体验，自即日起，[《Agidin》](https://agidin.com)将全面专注于 AI 及其衍生功能。
 
-原有的 PEX/NFT/IPFS 相关功能将独立成一个全新的 Web3 服务平台：[《巴贝历》](https://babely.cc)。
+原有的 PEX/NFT/IPFS 相关功能将独立成一个全新的 Web3 服务平台：[《巴贝历》](https://巴贝历.com)。
 
 更多选择，更大空间！
 
@@ -148,21 +148,21 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-08-21 中国区审核
 
-尊敬的中国地区用户，由于您的当地法规，您与 AI 的对话必须符合中国言论规范。为了长期服务于您，即日起 [Agidin-中国区](https://u.cn.agidin.com) 将接入中国百度内容审查，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [Agidin-Global](https://u.earth.agidin.com) 随心畅聊。
+尊敬的中国地区用户，由于您的当地法规，您与 AI 的对话必须符合中国言论规范。为了长期服务于您，即日起 [Agidin-中国区](https://u.cn.爱奇点.com) 将接入中国百度内容审查，并特别提供了中国专用 AI 通道，供您首选使用。中国以外用户请访问 [Agidin-Global](https://u.earth.agidin.com) 随心畅聊。
 
 ### 2023-08-08 中文版上线
 
 ### 2023-07-01 安卓版
 
-[下载 Agidin 安卓应用](https://apk.agidin.com)
+[下载 Agidin 安卓应用](https://apk.爱奇点.com)
 
 ### 2023-06-06 成功上架苹果应用商店
 
-[安装 Agidin 苹果应用](https://ios.agidin.com)
+[安装 Agidin 苹果应用](https://ios.爱奇点.com)
 
 ### 2023-05-05 网页版首发上线啦
 
-[打开 Agidin 网页应用](https://u.agidin.com)
+[打开 Agidin 网页应用](https://u.爱奇点.com)
 
 ---
 
