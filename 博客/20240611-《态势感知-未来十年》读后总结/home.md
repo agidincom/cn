@@ -44,4 +44,4 @@
 
 ---
 
-[**🔙️ Back to Home**](../../home.md)
+[**🔙️ Go Home**](../../home.md)
